@@ -29,15 +29,19 @@ This project showcases a fully parameterized Arithmetic Logic Unit (ALU) designe
 
 ```
 ├── src/
-│   └── alu.v                 # ALU module (parameterized)
+│   └── alu.v                    # ALU module (parameterized)
 ├── tb/
-│   ├── alu_tb.v              # Self-checking testbench
-│   └── input_vectors.txt     # External input stimuli for simulation
+│   ├── alu_tb.v                 # Self-checking testbench
+│   └── input_vectors.txt        # External input stimuli for simulation
 ├── results/
-│   └── simulation_log.txt    # Example simulation output
+│   └── simulation_log.txt       # Example simulation output
 ├── coverage/
-│   └── coverage_report.txt   # Code coverage summary
-└── README.md                 # Project documentation
+│   └──                          # Code coverage summary
+├── Design Document/
+│   └──                          # Code coverage summary
+├── Test Plan/
+│   └──              
+└── README.md                    # Project documentation
 ```
 
 ---
