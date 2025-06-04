@@ -57,7 +57,7 @@ To design a reusable and configurable ALU with robust testbench methodology that
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/parameterized-alu-verilog.git
+   git clone https://github.com/raghul-g1322/ALU-with-Parameterized-Input-WIdth.git
    cd parameterized-alu-verilog
    ```
 
@@ -67,11 +67,6 @@ To design a reusable and configurable ALU with robust testbench methodology that
 
 4. Review coverage reports and simulation logs under the `results/` and `coverage/` directories
 
----
-
-## 📸 Screenshots (Optional)
-
-Include waveform captures, scoreboard output, or coverage summary here.
 
 ---
 
