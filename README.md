@@ -1,6 +1,6 @@
 # ⚙️ Parameterized ALU in Verilog with Self-Checking Testbench
 
-This project showcases a fully parameterized Arithmetic Logic Unit (ALU) designed using Verilog, developed during my internship at [Company Name]. The ALU is capable of performing a wide range of arithmetic and logical operations and is accompanied by a self-checking testbench that automates the verification process.
+This project showcases a fully parameterized Arithmetic Logic Unit (ALU) designed using Verilog, developed during my internship at Mirafra Technologies. The ALU is capable of performing a wide range of arithmetic and logical operations and is accompanied by a self-checking testbench that automates the verification process.
 
 ---
 
@@ -67,12 +67,6 @@ To design a reusable and configurable ALU with robust testbench methodology that
 
 4. Review coverage reports and simulation logs under the `results/` and `coverage/` directories
 
-
----
-
-## 🙌 Acknowledgments
-
-Grateful to my mentors and team at [Company Name] for the guidance and support during this internship project.
 
 ---
 
